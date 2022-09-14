@@ -35,7 +35,9 @@ Notes:
 	- Is the process of breaking the system into bits in order to identify and classify the security holes.
 
 Tools: 
-  [*] - Nmap
+  [*] - Nmap, ncat, ndiff, nping
+  [] - ftp
+  [] - 
   [] - COPS
   [] - Tiger
 
