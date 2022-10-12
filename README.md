@@ -41,4 +41,19 @@ Tools:
   [] - COPS
   [] - Tiger
 
-
+Exam Questions
+1. How Many machines are active ? (Use netdiscover)
+2. Which Machine has FTP Server open ? (nmap)
+3. Find 2 secret files using FTP? (Brute force FTP usernames)
+4. Find out phone number of web application user? (sqlmap)
+5. Brute force Wordpress website user's password. (wpscan)
+6. Decode .hex file (cryptool)
+7. Which machine started DOS attack? DDOS attack happened on which IP? Find out HTTP credentials from PCAP file? (wireshark)
+8. Decode the given text using given secret? (BCTextEncoder)
+9. Calculate SHA1 hash of a text? (Hashcalc)
+10. Decrypt the hidden volume & find the secret file? (veracrypt)
+11. Crack the given hash? (hashes.com)
+12. Find secret hidden in the image/file ? (Openstego/Snow)
+13. Find a secret file in ADROID ? (adb)
+14. Send data to another machine(firewall blocked) ? (Covert TCP)
+15. 
