@@ -53,11 +53,17 @@ Tools:
   Linux Tools
   - Netdiscover
   - NMAP
-  - Hydra
-  - John The Ripper
+  - Hydra (Online password cracker)
+  - John The Ripper(Brute force password cracker)
   - wpscan
   - sqlmap
   - ADB
+
+Bonus Tools
+
+Reco
+- Sherlock
+
 
 Exam Questions
 1. How Many machines are active ? (Use netdiscover)
@@ -75,3 +81,4 @@ Exam Questions
 13. Find a secret file in ADROID ? (adb)
 14. Send data to another machine(firewall blocked) ? (Covert TCP)
 15. 
+
