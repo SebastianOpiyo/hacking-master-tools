@@ -40,6 +40,24 @@ Tools:
   [] - 
   [] - COPS
   [] - Tiger
+  
+  Windows Tools
+  - Wireshirk
+  - Hashcalc
+  - Veracrypt
+  - BCText Encoder
+  - Cryptool
+  - Snow
+  - Openstego
+  
+  Linux Tools
+  - Netdiscover
+  - NMAP
+  - Hydra
+  - John The Ripper
+  - wpscan
+  - sqlmap
+  - ADB
 
 Exam Questions
 1. How Many machines are active ? (Use netdiscover)
