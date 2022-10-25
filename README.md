@@ -42,19 +42,19 @@ Tools:
   [] - Tiger
   
   Windows Tools
-  - Wireshirk
-  - Hashcalc
-  - Veracrypt
-  - BCText Encoder
-  - Cryptool
-  - Snow
-  - Openstego
+  - Wireshirk --> Used to monitor network traffic, can be used to tell whether we have a DDOS attack or not
+  - Hashcalc --> Used to calculate for the hash value of a file or text
+  - Veracrypt --> Used to encrypt and decrypt storage volumes/files
+  - BCText Encoder -> Encodes & decodes given text as long as a password is provided
+  - Cryptool --> Used to decode a hex file
+  - Snow --> Used to extract hidden messages in files(password protected)
+  - Openstego --> Used to extract hidden information in audio, video, images and text file
   
   Linux Tools
-  - Netdiscover
-  - NMAP
-  - Hydra (Online password cracker)
-  - John The Ripper(Brute force password cracker)
+  - Netdiscover --> Identify the devices connected to your network
+  - NMAP --> scan network for vulnerability & open ports
+  - Hydra --> Online password cracker.
+  - John The Ripper --> Brute force password cracker, can crack linux login passwd, zipped files etc. 
   - wpscan
   - sqlmap
   - ADB
@@ -62,7 +62,7 @@ Tools:
 Bonus Tools
 
 Reco
-- Sherlock
+- Sherlock --> for social media accounts
 
 
 Exam Questions
@@ -80,5 +80,7 @@ Exam Questions
 12. Find secret hidden in the image/file ? (Openstego/Snow)
 13. Find a secret file in ADROID ? (adb)
 14. Send data to another machine(firewall blocked) ? (Covert TCP)
-15. 
 
+NB:-
+- A summary documentation of each tool is in in the markdown file named with the respective name of each tool
+- The documentation will be updated from time to time.
