@@ -55,9 +55,9 @@ Tools:
   - NMAP --> scan network for vulnerability & open ports
   - Hydra --> Online password cracker.
   - John The Ripper --> Brute force password cracker, can crack linux login passwd, zipped files etc. 
-  - wpscan
-  - sqlmap
-  - ADB
+  - wpscan --> Wordpress sanner, scans the wordpress site for vulnerabilities.
+  - sqlmap --> traces/enumerates existing databases and dumps data. 
+  - ADB --> used to manage adroid, install uninstall apps, list running services, traverse the file sys, clear cache etc. on the shell
 
 Bonus Tools
 
