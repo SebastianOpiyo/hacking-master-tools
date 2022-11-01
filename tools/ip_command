@@ -1,0 +1,9 @@
+# ip Command
+
+It is an improvement of the ```ipconfig``` command
+Below is a summary of how to use it:
+
+- To view the man page
+```man ip```
+
+
