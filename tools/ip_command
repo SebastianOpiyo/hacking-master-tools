@@ -1,9 +1,9 @@
 # ip Command
 
-It is an improvement of the ```ipconfig``` command
+It is an improvement of the _ipconfig_ command
 Below is a summary of how to use it:
 
 - To view the man page
-```man ip```
+_man ip_
 
 
