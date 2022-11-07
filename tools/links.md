@@ -1,0 +1,2 @@
+- [SMB](https://www.computerhope.com/unix/smbclien.htm)
+- [SMB_HISTORY](https://www.techtarget.com/searchnetworking/definition/Server-Message-Block-Protocol)
