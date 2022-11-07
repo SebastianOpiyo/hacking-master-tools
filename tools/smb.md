@@ -68,13 +68,13 @@ nmap - OS Discovery
 
 nmap - SMB Vulnerabilities on Windows
 
-> ```nmap -p 445 --script smb-vuln-ms06-025 target-IP```
-> ```nmap -p 445 --script smb-vuln-ms07-029 target-IP```
-> ```nmap -p 445 --script smb-vuln-ms08-067 target-IP```
-> ```nmap -p 445 --script smb-vuln-ms10-054 target-IP```
-> ```nmap -p 445 --script smb-vuln-ms10-061 target-IP```
-> ```nmap -p 445 --script smb-vuln-ms17-010 target-IP```
-> ```nmap -p 445 --script smb-vuln-cve-2017-7494 target-IP```
+* > ```nmap -p 445 --script smb-vuln-ms06-025 target-IP```
+* > ```nmap -p 445 --script smb-vuln-ms07-029 target-IP```
+* > ```nmap -p 445 --script smb-vuln-ms08-067 target-IP```
+* > ```nmap -p 445 --script smb-vuln-ms10-054 target-IP```
+* > ```nmap -p 445 --script smb-vuln-ms10-061 target-IP```
+* > ```nmap -p 445 --script smb-vuln-ms17-010 target-IP```
+* > ```nmap -p 445 --script smb-vuln-cve-2017-7494 target-IP```
 
 - __Always check for updated list on https://nmap.org/nsedoc/scripts/__
 

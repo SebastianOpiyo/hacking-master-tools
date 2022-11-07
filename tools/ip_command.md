@@ -27,9 +27,9 @@ Below is a summary of how to use it:
 * eg. ```ip a add 192.168.1.200/24 dev eth0```
 
 ## Add broadcast address
-* ip addr add brd {ADDDRESS-HERE} dev {interface}
-* ip addr add broadcast {ADDDRESS-HERE} dev {interface}
-* ip addr add broadcast 172.20.10.255 dev dummy0
+* `ip addr add brd {ADDDRESS-HERE} dev {interface}`
+* `ip addr add broadcast {ADDDRESS-HERE} dev {interface}`
+* `ip addr add broadcast 172.20.10.255 dev dummy0`
 
 Example, using + or - sign instead of broadcast address
 ```ip addr add 192.168.1.50/24 brd + dev eth0 label eth0Home```
