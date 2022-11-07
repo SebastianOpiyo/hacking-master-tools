@@ -109,12 +109,12 @@ OR
 E.g ```ip route del 192.168.1.0/24 dev eth0```
 
 # How to Change MAC Address on Linux
->```NIC="eno1" ## <-- My NIC name ##```
->```ip link show $NIC```
->```ip link set dev $NIC down```
->```## set new MAC address ##```
->```ip link set dev $NIC address XX:YY:ZZ:AA:BB:CC```
->```ip link set dev $NIC up```
+* ```NIC="eno1" ## <-- My NIC name ##```
+* ```ip link show $NIC```
+* ```ip link set dev $NIC down```
+* ```## set new MAC address ##```
+* ```ip link set dev $NIC address XX:YY:ZZ:AA:BB:CC```
+* ```ip link set dev $NIC up```
 
 - Make ip command output pretty by colouring
 > ```ip -c route```
@@ -122,4 +122,5 @@ E.g ```ip route del 192.168.1.0/24 dev eth0```
 - Showing all IP Addressses on Linux Box
 > ```$ sudo ip -br -c addr show```
 > ```$ sudo ip -br -c link show```
+
 
