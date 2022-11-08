@@ -45,4 +45,14 @@
 * To perform the default SYN scan (it tests by performing only half of the TCP handshake):
     - ```nmap –sS 192.168.0.1```
 
-* 
+* To instruct Nmap to scan UDP ports instead of TCP ports (the –p switch specifies ports 80, 130, and 255 in this example):
+    - ```nmap –sU –p 80,130,255 192.168.0.1```
+
+* Run a fast scan on the target system, but bypass host discovery. (Host discovery uses ping, but many server firewalls do not respond to ping requests. This option forces the test without waiting for a reply that may not be coming):
+    - ```nmap –Pn –F 192.168.0.1```
+
+* The nmap utility can be used to detect the operating system of a particular target:
+    - ```nmap –A 192.168.0.1```
+
+* It can also be used to probe for the services that might be using different ports:
+    - ```nmap –sV 192.168.0.1```
