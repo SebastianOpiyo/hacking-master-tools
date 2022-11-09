@@ -55,4 +55,4 @@
     - ```nmap –A 192.168.0.1```
 
 * It can also be used to probe for the services that might be using different ports:
-    - ```nmap –sV 192.168.0.1```
+    - ```nmap –sV 192.168.0.1``` OR ```nmap -p- sV <IP>```
