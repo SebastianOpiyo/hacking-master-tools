@@ -35,11 +35,11 @@ Notes:
 	- Is the process of breaking the system into bits in order to identify and classify the security holes.
 
 Tools: 
-  [*] - Nmap, ncat, ndiff, nping
-  [] - ftp
-  [] - 
-  [] - COPS
-  [] - Tiger
+  - [*] - Nmap, ncat, ndiff, nping
+  - [] - ftp
+  - [] - 
+  - [] - COPS
+  - [] - Tiger
   
   Windows Tools
   - Wireshirk --> Used to monitor network traffic, can be used to tell whether we have a DDOS attack or not
