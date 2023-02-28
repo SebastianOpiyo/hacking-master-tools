@@ -1,11 +1,9 @@
-# CEH MASTER PREP MATERIAL.
+# BlackHatAfrica MASTER HACKING PREP MATERIAL.
 
 ## IMPORTANT:
-I have decided to document my journey in the preparation to the exam and most importantly,
-for life. As much as I would be over the moon after acing the exam, the excitement always ends in
-the same day. To me, the most important is, "I study for life...!"
+"I study for life...!"
 
-## Exam Details
+## CEH - Master Exam Details
 - Exam Title: Certified Ethical Hacker - Master (Practical Exam)
 - Number of Challenges -> 20
 - Duration -> 6 hours
