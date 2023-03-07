@@ -33,7 +33,7 @@
 
 * Scan (Fast) the most common ports:
     - ```nmap –F 192.168.0.1```
-
+clear
 * To scan all ports (1 – 65535):
 - ```nmap –p– 192.168.0.1```
 

@@ -1,0 +1,22 @@
+# Curl
+Using curl to send cookies, perform crud operations on specific endpoints and collect cookie data
+
+
+## Definition
+- curl stands for Client for URLs.
+- Used for the following protocols: HTTP, HTTPS, FTP, and SFTP
+- Enables one to make  GET, POST, and HEAD requests to the server, 
+  retrieve HTTP headers, download HTML pages, upload files, submit forms, and more.
+
+
+## Send Cookies
+curl --cookie "Name=Value" https://reqbin.com/echo
+
+# GET request
+curl https://reqbin.com/echo
+
+# POST request
+
+
+Example with links
+https://reqbin.com/req/c-2cd3jxee/
