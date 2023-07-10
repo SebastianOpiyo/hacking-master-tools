@@ -14,14 +14,17 @@
 
 ## Example Output
 
-Starting Nmap 7.91 ( https://nmap.org ) at 2023-07-10 07:38 UTC
+Starting Nmap 7.91 (https://nmap.org) at 2023-07-10 07:38 UTC
+
 Nmap scan report for 192.168.1.0
 Host is up (0.036s latency).
 Not filtered
-PORT     STATE SERVICE
-10000/tcp open  Cisco IP Phone
-10001/tcp open  Cisco IP Phone
-10002/tcp open  Cisco IP Phone
+
+| PORT   | STATE | SERVICE        |
+|--------|-------|----------------|
+| 10000  | open  | Cisco IP Phone |
+| 10001  | open  | Cisco IP Phone |
+| 10002  | open  | Cisco IP Phone |
 
 
 ## Scan for Operating System
