@@ -105,4 +105,7 @@ Using nmap vuln
     Nmap –script vuln scanme.nmap.org
 
 
+## Writing your own scripts
+https://nmap.org/book/nse-tutorial.html
+
 ## Links: https://nmap.org/book/man-nse.html#:~:text=The%20Nmap%20Scripting%20Engine%20(NSE,efficiency%20you%20expect%20from%20Nmap.
