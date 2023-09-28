@@ -22,5 +22,16 @@
 2. change directory to `kali-whoami` and run the following command: `sudo make install`
 3. check if the installation was successful by running the following command: `sudo kali-whoami --help`
 - You will see the following image:
-![Alt text](https://media.geeksforgeeks.org/wp-content/uploads/20210816172927/WhatsAppImage20210816at114928AM1.jpeg)
-
+![Alt text](image-4.png)
+4. To check WHOAMI status, run: `sudo kali-whoami --status`
+![Alt text](image-1.png)
+5. Start the tool: `sudo kali-whoami --start`
+- should see something like this:
+![Alt text](image-5.png)
+6. Choose options you want to enable and press enter, to disable, press the number again. 
+- Should see something similar to this:
+![Alt text](image-6.png)
+5. Stop the tool, run the following command: `sudo kali-whoami --stop`
+![Alt text](image-2.png)
+6. Check the status again run `sudo kali-whoami --status`
+![Alt text](image-3.png)
