@@ -11,7 +11,7 @@ Reco can be both passive and active. Each with its own technique and tools.
 ## Active
 1. nmap
 2. arp-scan
-3. 
+3. SET
 
 ## CCTV Cameras vulnerabilities Scanner
 1. CamRaptor - [https://github.com/EntySec/CamRaptor]
