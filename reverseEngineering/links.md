@@ -1,0 +1,6 @@
+1. [Github source One](https://github.com/Kasimir123/Reverse-Engineering-101)
+2. [resource for malware 101](https://malwareunicorn.org/workshops/re101.html#2)
+3. [Download malware samples](https://bazaar.abuse.ch/download/631f6b330f8eb0a2006fa83ccd48c9a096c5f26ed9af0bd4b76258f64fbb0adc/)
+4. [Crackmes.one](https://crackmes.one/)
+5. [Reverse Engineering Challenges](https://challenges.re/)
+6. [Over The Wire](https://overthewire.org/wargames/)

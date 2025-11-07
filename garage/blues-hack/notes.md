@@ -32,3 +32,10 @@
     *GAP*: Controls connection initiation and discovery.
 
     *Applications*: Use Bluetooth for useful purposes.
+
+    ------------------------------------------------------------
+
+## BLE Addressing
+- Every BLE device has a unique 48-bit address, similar to a MAC address.
+- Device address can be public (fixed) or random (can change).
+- Random addresses can be static, private non-resolvable, or private resolvable.
